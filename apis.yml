@@ -39,7 +39,6 @@ apis:
   - name: Data USA
     description: "US Public Data"
     humanURL: https://datausa.io/about/api/
-    baseURL: https://datausa.io/about/api/
     tags:
       - Government
     properties:
